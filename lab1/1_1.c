@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(void) {
     printf("Введите числа:");
-    int a, b, c, max;
+    int a, b, c, max; //все ок, пробел не нужен
     scanf("%d %d %d", &a, &b, &c);
     max = a;
     if (b > max) { max = b; }
