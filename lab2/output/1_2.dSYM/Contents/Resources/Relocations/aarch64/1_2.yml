@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/andreysamoylov/Documents/Лаба прога 2/output/1_2"
+relocations:     []
+...
